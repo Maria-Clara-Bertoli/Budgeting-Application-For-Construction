@@ -12,4 +12,3 @@ Este repositório contém a implementação de um **aplicativo desenvolvido com 
 ## 🛠️ Tecnologias Utilizadas
 - Flutter 📱  
 - Dart 🎯
-
